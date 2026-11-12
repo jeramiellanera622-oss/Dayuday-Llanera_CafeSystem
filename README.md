@@ -32,5 +32,5 @@ The **Campus Cafe System** is designed to manage customer orders, menu items (`B
 ---
 
 <p align="center">
-  🌸 Developed with ☕, 💻, and 🌺 by <b>Christoff Allen B. Jumapit</b> 🌸
+  🌸 Developed with ☕, 💻, and 🌺 by <b>Dayuday and Llnaera</b> 🌸
 </p>
