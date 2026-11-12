@@ -7,7 +7,7 @@ public class CafeApp {
 
         // FIRST CUSTOMER
         Customer customer1 =
-                new Customer("Maria Santos", true);
+                new Customer("Rinalyn Dayuday ", true);
 
         Order order1 =
                 new Order("2001", customer1);
@@ -43,7 +43,7 @@ public class CafeApp {
 
         // SECOND CUSTOMER
         Customer customer2 =
-                new Customer("John Michael", false);
+                new Customer("John Michael Tarona", false);
 
         Order order2 =
                 new Order("2002", customer2);
